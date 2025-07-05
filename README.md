@@ -117,8 +117,12 @@ genai.configure(api_key="YOUR_API_KEY")
 ---
 
 
-## ## 📄 License 
+##  📄 License 
 
  This project is licensed under the **MIT License** 
  
-  ---
+   ---
+## Made by Aryan Verma
+🤝 
+
+
